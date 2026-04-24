@@ -139,7 +139,7 @@ After decoding, `output_stego.txt` contains the exact original message. The two 
 
 ## 👨‍💻 Author
 
-**Veeresh T** (`Veeresh0502`)
+**Veeresh C Totagi** (`Veeresh0502`)
 
 Developed as part of learning System Programming and Embedded C concepts.
 
